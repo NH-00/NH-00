@@ -1,16 +1,15 @@
-## Hi there 👋
+# Nolan Harmatiuk
 
-<!--
-**NH-00/NH-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Nolan Harmatiuk · Product design & development](assets/nolan-cover.svg)
 
-Here are some ideas to get you started:
+I design and build software that makes everyday work easier. I like taking a task people still do by hand and making the whole flow feel simpler.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+
+### CardTuck
+
+Turn the business cards you pick up into contacts you’ll actually use. Capture a card, check the extracted details, then save the contact or export a vCard.
+
+[![CardTuck cover showing a fictional business card in the real app’s camera view](assets/cardtuck-cover.webp)](https://cardtuck.app/)
+
+[Open CardTuck](https://cardtuck.app/)
