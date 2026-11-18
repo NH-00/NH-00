@@ -1,4 +1,6 @@
-![Nolan Harmatiuk · Product design & development](assets/nolan-cover.svg)
+![Nolan Harmatiuk · Apps & automation for small teams](assets/nolan-cover.svg)
+
+I build things and see if they hold up under real use. I’m drawn to the work that’s easy to put off, like saving a contact or following up with a customer.
 
 ## CardTuck
 

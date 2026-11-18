@@ -13,7 +13,7 @@
   <path d="M47 62h46" stroke="#253dec" stroke-width="4"/>
   <text x="45" y="171" font-family="Georgia, 'Times New Roman', serif" font-size="105" letter-spacing="-7" fill="#1e201f">Nolan</text>
   <text x="41" y="271" font-family="Georgia, 'Times New Roman', serif" font-size="105" letter-spacing="-7" fill="#1e201f">Harmatiuk</text>
-  <text x="49" y="322" font-family="Arial, Helvetica, sans-serif" font-size="25" letter-spacing="-.4" fill="#253dec">Product design &amp; development</text>
+  <text x="49" y="322" font-family="Arial, Helvetica, sans-serif" font-size="25" letter-spacing="-.4" fill="#253dec">Apps &amp; automation for small teams</text>
   <g clip-path="url(#board)">
     <path d="M830 195h321M995 48v299" fill="none" stroke="#7c77bb" stroke-width="1" stroke-dasharray="4 6" opacity=".7"/>
     <circle cx="992" cy="196" r="121" fill="none" stroke="#253dec" stroke-width="1" opacity=".62"/>
